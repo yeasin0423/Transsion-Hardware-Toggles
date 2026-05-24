@@ -1,0 +1,6 @@
+id=transsion_ksu_webui
+name=Transsion Hardware Toggles
+version=v1.0
+versionCode=1
+author=yeasin
+description=Native WebUI to toggle Transsion DT2W and USB OTG properties.
