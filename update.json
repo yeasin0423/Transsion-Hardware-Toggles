@@ -1,5 +1,6 @@
 {
     "version": "1.0",
     "versionCode": 10,
-    "zipUrl": "https://github.com/yeasin0423/Transsion-Hardware-Toggles/releases/download/v1.0/Transsion-Hardware-Toggles-v1.0.zip"
+    "zipUrl": "https://github.com/yeasin0423/Transsion-Hardware-Toggles/releases/download/v1.0/Transsion-Hardware-Toggles-v1.0.zip",
+    "changelog": "https://raw.githubusercontent.com/yeasin0423/Transsion-Hardware-Toggles/main/README.md"
 }
