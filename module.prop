@@ -4,3 +4,4 @@ version=v1.0
 versionCode=1
 author=yeasin
 description=Native WebUI to toggle Transsion DT2W and USB OTG properties.
+updateJson=https://raw.githubusercontent.com/yeasin0423/Transsion-Hardware-Toggles/refs/heads/main/update.json
