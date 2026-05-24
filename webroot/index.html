@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transsion Hardware Engine</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Transsion Hardware Toggles</h2>
+
+    <div class="card" id="otg-card">
+        <div class="card-info">
+            <div class="card-title">USB OTG</div>
+            <span id="otg-badge" class="badge badge-loading">Loading</span>
+        </div>
+        <label class="switch">
+            <input type="checkbox" id="otg-switch" disabled>
+            <span class="slider"></span>
+        </label>
+    </div>
+
+    <div class="card" id="dt2w-card">
+        <div class="card-info">
+            <div class="card-title">Double Tap to Wake</div>
+            <span id="dt2w-badge" class="badge badge-loading">Loading</span>
+        </div>
+        <label class="switch">
+            <input type="checkbox" id="dt2w-switch" disabled>
+            <span class="slider"></span>
+        </label>
+    </div>
+</div>
+
+<script type="module" src="./assets/main.js"></script>
+</body>
+</html>
